@@ -1,0 +1,9 @@
+C:\Users\MVi\source\repos\ParetoDemo\Pareto\bin\Debug\netcoreapp2.1\Pareto.deps.json
+C:\Users\MVi\source\repos\ParetoDemo\Pareto\bin\Debug\netcoreapp2.1\Pareto.dll
+C:\Users\MVi\source\repos\ParetoDemo\Pareto\bin\Debug\netcoreapp2.1\Pareto.pdb
+C:\Users\MVi\source\repos\ParetoDemo\Pareto\obj\Debug\netcoreapp2.1\Pareto.csprojAssemblyReference.cache
+C:\Users\MVi\source\repos\ParetoDemo\Pareto\obj\Debug\netcoreapp2.1\Pareto.csproj.CoreCompileInputs.cache
+C:\Users\MVi\source\repos\ParetoDemo\Pareto\obj\Debug\netcoreapp2.1\Pareto.AssemblyInfoInputs.cache
+C:\Users\MVi\source\repos\ParetoDemo\Pareto\obj\Debug\netcoreapp2.1\Pareto.AssemblyInfo.cs
+C:\Users\MVi\source\repos\ParetoDemo\Pareto\obj\Debug\netcoreapp2.1\Pareto.dll
+C:\Users\MVi\source\repos\ParetoDemo\Pareto\obj\Debug\netcoreapp2.1\Pareto.pdb
