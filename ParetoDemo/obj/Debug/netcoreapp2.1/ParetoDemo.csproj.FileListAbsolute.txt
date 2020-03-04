@@ -12,3 +12,17 @@ C:\Users\MVi\source\repos\ParetoDemo\ParetoDemo\obj\Debug\netcoreapp2.1\ParetoDe
 C:\Users\MVi\source\repos\ParetoDemo\ParetoDemo\bin\Debug\netcoreapp2.1\Pareto.dll
 C:\Users\MVi\source\repos\ParetoDemo\ParetoDemo\bin\Debug\netcoreapp2.1\Pareto.pdb
 C:\Users\MVi\source\repos\ParetoDemo\ParetoDemo\obj\Debug\netcoreapp2.1\ParetoDemo.csproj.CopyComplete
+C:\Users\MVi\source\repos\Pareto\ParetoDemo\bin\Debug\netcoreapp2.1\ParetoDemo.deps.json
+C:\Users\MVi\source\repos\Pareto\ParetoDemo\bin\Debug\netcoreapp2.1\ParetoDemo.runtimeconfig.json
+C:\Users\MVi\source\repos\Pareto\ParetoDemo\bin\Debug\netcoreapp2.1\ParetoDemo.runtimeconfig.dev.json
+C:\Users\MVi\source\repos\Pareto\ParetoDemo\bin\Debug\netcoreapp2.1\ParetoDemo.dll
+C:\Users\MVi\source\repos\Pareto\ParetoDemo\bin\Debug\netcoreapp2.1\ParetoDemo.pdb
+C:\Users\MVi\source\repos\Pareto\ParetoDemo\bin\Debug\netcoreapp2.1\Pareto.dll
+C:\Users\MVi\source\repos\Pareto\ParetoDemo\bin\Debug\netcoreapp2.1\Pareto.pdb
+C:\Users\MVi\source\repos\Pareto\ParetoDemo\obj\Debug\netcoreapp2.1\ParetoDemo.csprojAssemblyReference.cache
+C:\Users\MVi\source\repos\Pareto\ParetoDemo\obj\Debug\netcoreapp2.1\ParetoDemo.csproj.CoreCompileInputs.cache
+C:\Users\MVi\source\repos\Pareto\ParetoDemo\obj\Debug\netcoreapp2.1\ParetoDemo.AssemblyInfoInputs.cache
+C:\Users\MVi\source\repos\Pareto\ParetoDemo\obj\Debug\netcoreapp2.1\ParetoDemo.AssemblyInfo.cs
+C:\Users\MVi\source\repos\Pareto\ParetoDemo\obj\Debug\netcoreapp2.1\ParetoDemo.csproj.CopyComplete
+C:\Users\MVi\source\repos\Pareto\ParetoDemo\obj\Debug\netcoreapp2.1\ParetoDemo.dll
+C:\Users\MVi\source\repos\Pareto\ParetoDemo\obj\Debug\netcoreapp2.1\ParetoDemo.pdb

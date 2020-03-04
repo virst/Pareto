@@ -9,6 +9,7 @@ namespace ParetoDemo
     {
         public static void PrintAltTable(ComparisonsTypes[] Comparisons, ParetoAlternative[] Alternatives)
         {
+            Console.Write("  \t");
             if (Comparisons != null)
                 foreach (var c in Comparisons)
                     Console.Write(ParetoEng.ComparisonsTypesToString(c) + "\t");
@@ -16,6 +17,7 @@ namespace ParetoDemo
 
             foreach (var al in Alternatives)
             {
+                Console.Write(al.Id + "\t");
                 foreach (var v in al.Values)
                     Console.Write(v + "\t");
                 Console.WriteLine();

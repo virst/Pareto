@@ -8,11 +8,12 @@ namespace Pareto
     {
         private ParetoEng Parent { get; }
         public double[] Values { get; }
-
-        internal ParetoAlternative(ParetoEng p)
+        public readonly string Id;
+        internal ParetoAlternative(ParetoEng p,string s)
         {
             Parent = p;
             Values = new double[p.CountParametrs];
+            Id = s;
         }
 
         public int CompareTo(object obj)
@@ -32,6 +33,11 @@ namespace Pareto
             if (Math.Abs(df) != Parent.CountParametrs)
                 return 0;
             return Math.Sign(df);
+        }
+
+        public override string ToString()
+        {
+            return Id;
         }
     }
 }

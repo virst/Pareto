@@ -17,10 +17,10 @@ namespace ParetoDemo
             p.Comparisons[1] = ComparisonsTypes.Less;
             p.Comparisons[2] = ComparisonsTypes.More;
 
-            for(int i=0;i< Alternatives;i++)
+            for (int i = 0; i < Alternatives;)
             {
-                var alt = p.AddAlternative();
-                for (int j = 0; j < alt.Values.Length;j++)
+                var alt = p.AddAlternative("#" + ++i);
+                for (int j = 0; j < alt.Values.Length; j++)
                 {
                     alt.Values[j] = rnd.Next(999);
                 }
@@ -30,7 +30,7 @@ namespace ParetoDemo
             Console.WriteLine("Best Alrernatives");
             PrintAltTable(p.Comparisons, p.GetBestAlternatives());
             Console.WriteLine("done!");
-        }       
+        }
 
     }
 }

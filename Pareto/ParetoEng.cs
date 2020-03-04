@@ -30,10 +30,16 @@ namespace Pareto
                     switch (a)
                     {
                         case -1:
+#if DEBUG
+                            Console.WriteLine("{0} removed by {1}", alt[i], alt[j]);
+#endif
                             alt.RemoveAt(i);
                             i--;
                             break;
                         case 1:
+#if DEBUG
+                            Console.WriteLine("{0} removed by {1}", alt[j], alt[i]);
+#endif
                             alt.RemoveAt(j);
                             break;
                     }
@@ -44,9 +50,9 @@ namespace Pareto
             return alt.ToArray();
         }
 
-        public ParetoAlternative AddAlternative()
+        public ParetoAlternative AddAlternative(string AlternativeId)
         {
-            var a = new ParetoAlternative(this);
+            var a = new ParetoAlternative(this, AlternativeId);
             _alternatives.Add(a);
             return a;
         }
